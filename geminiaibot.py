@@ -106,7 +106,7 @@ async def testmp3(ctx):
     await ctx.message.delete()
 
 
-bot.run('MTE4ODM1MTI4MzE4NzQyMTIwNA.Gicqep.err0ezqFIiVCyFJ5ugF77rduz6l4qsVWkYsPSM')
+bot.run('')
 
 
 #add some troll and music commands
